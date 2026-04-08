@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial,sans-serif;
+}
+img{
+    width: 100%;
+}
+.nav-link {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-around;
+}
+.nav-link li a{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+}
+#logo{
+    width: 348px;
+    height: 108px;
+    top: 25px;
+    left: 770px  ;
+}
+#conf{
+    width: 1920px;
+    height: 483px;
+}
+.meet{
+    position: relative;
+    max-width: 721px;
+    min-height: 57px;
+    top: 364px;
+    left: 601px;
+}
